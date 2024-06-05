@@ -48,7 +48,7 @@
 ## 기능 설명
 
 ### 홈페이지
-<img src='./README_IMG/Main.png' alt='Main 이미지' /> 
+<img src='./README_img/Main.png' alt='Main 이미지' /> 
 <img src='./README_IMG/Signup.png' alt='Signup 이미지' /> 
 <img src='./README_IMG/AlreadySignup.png' alt='AlreadySignup 이미지' /> 
 - BIG BANK의 이름처럼 내 손안에 있는 뱅크 즉, 우주를 뱅크로 비교하였습니다.
